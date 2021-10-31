@@ -11,6 +11,7 @@
 # Installation
 - ``git clone https://github.com/DevEvil99/DevEvilBot-Discord-Bot``
 - **Fill** ``config.json``
+- ``cd DevEvilBot-Discord-Bot``
 - ``npm i``
 - ``node . / node index.js``
 # Support and credit
