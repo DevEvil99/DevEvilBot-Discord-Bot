@@ -6,6 +6,8 @@
 - **[Invite](https://dsc.gg/dbbot)**
 - **[Support Server](https://dsc.gg/devevil)**
 
+**[Help me with my bot verification problem](https://devevil.xyz/contact)**
+
 # Installation
 - ``git clone https://github.com/DevEvil99/DevEvilBot-Discord-Bot``
 - **Fill** ``config.json``
