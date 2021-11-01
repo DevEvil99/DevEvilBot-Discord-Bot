@@ -1,16 +1,16 @@
 # DevEvilBot
 **DevEvilBot.xyz is a multifunctional bot that simplifies server management, Created by DevEvil#8745, Also features Games , Fun , NSFW, Anti Raid, Leveling System and much more with over 210 commands** 
+### Links
+- **[Installation](#installation)**
+- **[Invite](https://dsc.gg/dbbot)**
+- **[Support Server](https://dsc.gg/devevil)**
+
 
 **NOTE : These are not all commands and features of the bot**
 ### These features are not available in this repository
 - **Anti Raid**
 - **Invite Manager**
 - **Premium**
-
-### Links
-- **[Invite](https://dsc.gg/dbbot)**
-- **[Support Server](https://dsc.gg/devevil)**
-- **[Installation](#installation)**
 
 **[Help me with my bot verification problem](https://devevil.xyz/contact)**
 <section id="installation">
