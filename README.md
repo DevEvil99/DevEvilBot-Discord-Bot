@@ -5,6 +5,7 @@
 - **[Invite](https://dsc.gg/dbbot)**
 - **[Support Server](https://dsc.gg/devevil)**
 
+**Be sure to give this repo a star ⭐**
 
 **NOTE : These are not all commands and features of the bot**
 ### These features are not available in this repository
