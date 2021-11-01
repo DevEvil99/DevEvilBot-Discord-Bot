@@ -10,8 +10,10 @@
 ### Links
 - **[Invite](https://dsc.gg/dbbot)**
 - **[Support Server](https://dsc.gg/devevil)**
+- **[Installation](#installation)**
 
 **[Help me with my bot verification problem](https://devevil.xyz/contact)**
+<section id="installation">
 
 # Installation
 - ``git clone https://github.com/DevEvil99/DevEvilBot-Discord-Bot``
@@ -19,6 +21,9 @@
 - ``cd DevEvilBot-Discord-Bot``
 - ``npm i``
 - ``node . / node index.js``
+
+</section>
+
 # Support and credit
 **Developer : [DevEvil](https://devevil.xyz)**
 
