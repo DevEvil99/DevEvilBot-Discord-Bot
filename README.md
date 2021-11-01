@@ -1,22 +1,22 @@
-# DevEvilBot
+# DevEvilBot 🤖
 **DevEvilBot.xyz is a multifunctional bot that simplifies server management, Created by DevEvil#8745, Also features Games , Fun , NSFW, Anti Raid, Leveling System and much more with over 210 commands** 
-### Links
-- **[Installation](#installation)**
-- **[Invite](https://dsc.gg/dbbot)**
-- **[Support Server](https://dsc.gg/devevil)**
+### Links 🌐
+- **[Installation](#installation)** ⚙
+- **[Invite](https://dsc.gg/dbbot)** ❤
+- **[Support Server](https://dsc.gg/devevil)** 🛰
 
 **Be sure to give this repo a star ⭐**
 
-**NOTE : These are not all commands and features of the bot**
+**NOTE : These are not all commands and features of the bot** ❗
 ### These features are not available in this repository
 - **Anti Raid**
 - **Invite Manager**
 - **Premium**
 
-**[Help me with my bot verification problem](https://devevil.xyz/contact)**
+**[Help me with my bot verification problem](https://devevil.xyz/contact)** 🙏
 <section id="installation">
 
-# Installation
+# Installation ⚙
 - ``git clone https://github.com/DevEvil99/DevEvilBot-Discord-Bot``
 - **Fill** ``config.json``
 - ``cd DevEvilBot-Discord-Bot``
@@ -25,19 +25,19 @@
 
 </section>
 
-# Support and credit
-**Developer : [DevEvil](https://devevil.xyz)**
+# Support and credit ✒
+**Developer : [DevEvil](https://devevil.xyz)** 💻
 
-**Donate (Iranian Users Only) : [IDPay](https://idpay.ir/devevilbot)**
+**Donate (Iranian Users Only) : [IDPay](https://idpay.ir/devevilbot)** ❤
 
 **Patreon Soon**
-# Invite My Bots
+# Invite My Bots 🤖
 - [**DevEvilBot.xyz - Discord Multipurpose Bot**](https://dsc.gg/dbbot)
 - [**DevEvilBot Music - Discord Music Bot**](https://dsc.gg/dbmusic)
 - [**DevEvilBot Anti Raid - Discord Security Bot**](https://dsc.gg/dbar)
 - [**iCord - Discord Multipurpose and Music Bot**](https://dsc.gg/iicord)
 
-# LISENCE 
+# LISENCE 📄
 **Don't be a bad person and respect my hard works**
 ```
                                  Apache License
