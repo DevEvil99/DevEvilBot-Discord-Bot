@@ -21,7 +21,7 @@
 - **Fill** ``config.json``
 - ``cd DevEvilBot-Discord-Bot``
 - ``npm i``
-- ``node . / node index.js``
+- ``node .`` or ``node index.js``
 
 </section>
 
