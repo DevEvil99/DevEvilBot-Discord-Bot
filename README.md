@@ -7,7 +7,7 @@
 
 **Be sure to give this repo a star ⭐**
 
-**NOTE : These are not all commands and features of the bot** ❗
+**NOTE : These are not all commands and features of the bot, Discord.js v13 will break this bot so do not use this with it.** ❗
 ### These features are not available in this repository
 - **Anti Raid**
 - **Invite Manager**
