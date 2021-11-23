@@ -38,7 +38,10 @@
 - [**iCord - Discord Multipurpose and Music Bot**](https://dsc.gg/iicord)
 
 # Donators ❤
-<a href="https://github.com/shadow87de" target="_blank"><img src="https://cdn.discordapp.com/attachments/468141324906921984/912690997467676742/download.png" style="max-width: 100%;"></a>
+- [Parsa](https://github.com/shadow87de)
+- [GwParSa](https://github.com/GwParSa)
+
+<img src="https://cdn.discordapp.com/attachments/468141324906921984/912741889403392070/github-donators.png" style="max-width: 100%;">
 
 # LISENCE 📄
 **Don't be a bad person and respect my hard works**
