@@ -37,6 +37,9 @@
 - [**DevEvilBot Anti Raid - Discord Security Bot**](https://dsc.gg/dbar)
 - [**iCord - Discord Multipurpose and Music Bot**](https://dsc.gg/iicord)
 
+# Donators ❤
+<a href="https://github.com/shadow87de" target="_blank"><img src="https://cdn.discordapp.com/attachments/468141324906921984/912690997467676742/download.png" style="max-width: 100%;"></a>
+
 # LISENCE 📄
 **Don't be a bad person and respect my hard works**
 ```
