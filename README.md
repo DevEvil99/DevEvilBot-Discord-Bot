@@ -13,7 +13,6 @@
 - **Invite Manager**
 - **Premium**
 
-**Help me with my bot verification problem, [read the full story here](https://github.com/DevEvil99/DevEvilBot-Discord-Bot/discussions/3)** 🙏
 <section id="installation">
 
 # Installation ⚙
