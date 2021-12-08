@@ -1,4 +1,4 @@
-# DevEvilBot 🤖
+# [DevEvilBot 🤖](https://dsc.gg/dbbot)
 **DevEvilBot.xyz is a multifunctional bot that simplifies server management, Created by DevEvil#8745, Also features Games , Fun , NSFW, Anti Raid, Leveling System and much more with over 210 commands** 
 ### Links 🌐
 - **[Installation](#installation)** ⚙
