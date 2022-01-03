@@ -33,6 +33,7 @@
 # Invite My Bots 🤖
 - [**DevEvilBot.xyz - Discord Multipurpose Bot**](https://dsc.gg/dbbot)
 - [**DevEvilBot Music - Discord Music Bot**](https://dsc.gg/dbmusic)
+- [**DevEvilBot Music 2 - Discord Music Bot**](https://dsc.gg/dbmusic2)
 - [**DevEvilBot Anti Raid - Discord Security Bot**](https://dsc.gg/dbar)
 - [**iCord - Discord Multipurpose and Music Bot**](https://dsc.gg/iicord)
 
