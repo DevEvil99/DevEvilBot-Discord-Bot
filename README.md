@@ -4,6 +4,8 @@
 - **[Installation](#installation)** ⚙
 - **[Invite](https://dsc.gg/dbbot)** ❤
 - **[Support Server](https://dsc.gg/devevil)** 🛰
+- **[Discussions](https://github.com/DevEvil99/DevEvilBot-Discord-Bot/discussions)** 💬
+- **[Docs](https://docs.devevilbot.xyz)** ❓
 
 **Be sure to give this repo a star ⭐**
 
