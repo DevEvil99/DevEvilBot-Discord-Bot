@@ -11,7 +11,9 @@
 
 ## **If you want to help me update the bot to discord.js v13, [contact me via email](mailto:devevilcontact@gmail.com) or [Discord](https://dsc.gg/devevil)**
 
-**NOTE : These are not all commands and features of the bot, Discord.js v13 will break this bot so do not use this with it.** ❗
+**NOTE :** 
+### **The bot cant be verified becuase my country is under sanction if you want help me with this [contact me via email](mailto:devevilcontact@gmail.com) or [Discord](https://dsc.gg/devevil)**
+- **These are not all commands and features of the bot, Discord.js v13 will break this bot so do not use this with it.** ❗
 ### These features are not available in this repository
 - **Anti Raid**
 - **Invite Manager**
