@@ -44,7 +44,7 @@
 - [**iCord - Discord Multipurpose and Music Bot**](https://dsc.gg/iicord)
 
 # Donators ❤
-- [Parsa](https://github.com/shadow87de)
+- [shadoow87de](https://github.com/shadow87de)
 - [GwParSa](https://github.com/GwParSa)
 
 <img src="https://cdn.discordapp.com/attachments/468141324906921984/912741889403392070/github-donators.png" style="max-width: 100%;">
