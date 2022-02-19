@@ -18,6 +18,7 @@
 - **Anti Raid**
 - **Anti Swear**
 - **Invite Manager**
+- **Music**
 - **Premium**
 
 <section id="installation">
