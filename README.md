@@ -21,6 +21,9 @@
 - **Music**
 - **Premium**
 
+# Plans
+- **Add music to repo**
+
 <section id="installation">
 
 # Installation ⚙
