@@ -54,7 +54,6 @@
 <img src="https://cdn.discordapp.com/attachments/468141324906921984/912741889403392070/github-donators.png" style="max-width: 100%;">
 
 # LISENCE 📄
-**Don't be a bad person and respect my hard works**
 ```
                                  Apache License
                            Version 2.0, January 2004
