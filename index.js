@@ -12,7 +12,9 @@ const db = require("quick.db");
 const { CanvasSenpai } = require("canvas-senpai")
 const canva = new CanvasSenpai();
 const pagination = require("discord.js-pagination");
+const yts = require('yt-search');
 const ultrax = require("ultrax");
+const { Player } = require("discord-music-player");
 const activities = [
   "https://devevilbot.xyz",
   "Default Prefix : de!",
@@ -22,6 +24,23 @@ const activities = [
 
 
 const client = new Discord.Client({ disableEveryone: true , fetchAllMembers: true});
+
+process.on('unhandledRejection', console.error);
+
+client.queue = new Map();
+client.vote = new Map();
+
+const player = new Player(client, {
+  leaveOnEnd: false,
+  leaveOnStop: false,
+  leaveOnEmpty: false,
+  deafenOnJoin: true,
+  timeout: 10,
+  volume: 150,
+  quality: 'high',
+});
+
+client.player = player;
 
 client.on("ready", () => {
   const guild = client.guilds.cache.size.toLocaleString();
