@@ -16,6 +16,8 @@ module.exports = {
 		 .setDescription(`**The prefix is currently \`${prefix}\`** \n**You can change the bot prefix by typing \`${prefix}prefix <prefix>\`** \n**Support me by [inviting](https://discord.com/oauth2/authorize?client_id=743494327535140894&permissions=4294967295&redirect_uri=https%3A%2F%2Fdevevilbot.xyz%2Fdashboard&scope=bot%20applications.commands) me to your amazing server 💜** \n **If you're having issues with the bot, check out the [FAQ](https://devevilbot.xyz/#faq) page. If you do not find a solution there, you can also join the [support server](https://discord.gg/jsQ9UP7kCA) and ask for help there or you can report the issue by typing \`${prefix}report <bug>\`** \n**[Website](https://devevilbot.xyz/)**\n**[Documentation](https://docs.devevilbot.xyz/)**`)
 		 .addField('<:Mod:790557759120212019> Moderation', `\`${prefix}mod\``, true)
 		 .addField(':shield: Anti Raid', `\`${prefix}ar-setup\``, true)
+		 .addField(':mute: Anti Swear', `\`${prefix}anti-swear\``, true)
+         .addField(':musical_note:  Music', `\`${prefix}music-help\``, true)
 		 .addField(':dividers: Mod Log (Important)', `\`${prefix}modlog\``, true)
 		 .addField(':trophy: Leveling System', `\`${prefix}lvlsetup\``, true)
 		 .addField(':video_game: Game', `\`${prefix}game\``, true)
