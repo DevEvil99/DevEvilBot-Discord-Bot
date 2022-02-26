@@ -18,7 +18,6 @@
 - **Anti Raid**
 - **Anti Swear**
 - **Invite Manager**
-- **Music**
 - **Premium**
 
 # Plans
