@@ -1,3 +1,4 @@
+**Please don't put "Bot Developer" on your discord bio when you can't even download a package 💀**
 # [DevEvilBot 🤖](https://dsc.gg/dbbot)
 **DevEvilBot.xyz is a multifunctional bot that simplifies server management, Created by DevEvil#8745, Also features Games , Fun , NSFW, Music, Anti Raid, Leveling System and much more with over 225 commands** 
 ### Links 🌐
