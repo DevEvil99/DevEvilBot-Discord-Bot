@@ -14,14 +14,15 @@
 
 **NOTE :** 
 ### **This bot cant be verified becuase my country is under sanction if you want help me with that [contact me via email](mailto:devevilcontact@gmail.com) or [Discord](https://dsc.gg/devevil)**
-- **These are not all commands and features of the bot, Discord.js v13 will break this bot so do not use this with it.** ❗
-### These features are not available in this repository
+- **These are not all commands and features of the bot** 
+- **Discord.js v13 will break this bot so do not use this with it.** 
+### These features are not available in this repository ❗
 - **Anti Raid**
 - **Anti Swear**
 - **Invite Manager**
 - **Premium**
 
-# Plans
+# Plans 🦦
 - **Nothing for now**
 
 <section id="installation">
