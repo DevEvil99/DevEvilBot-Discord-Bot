@@ -50,7 +50,7 @@ We cant prohibit reselling of our project but if you do please follow the licens
 </section>
 
 # Support and credit ✒
-**Developer : [DevEvil](https://devevil.xyz)** 💻
+**Developer : [DevEvil](https://devevil.com)** 💻
 
 **Donate (Iranian Users Only) : [IDPay](https://idpay.ir/devevilbot)** ❤
 
