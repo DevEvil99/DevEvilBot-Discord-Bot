@@ -1,4 +1,7 @@
-**Please don't put "Bot Developer" on your discord bio when you can't even download a package 💀**
+I'm looking for someone to update and rewrite my bot from discord.js v12 to v14 and add buttons, slash commands, menus, and ....
+
+What do you get by doing that? I will give you a 1month nitro boost and shoutout you on my Github page and website 
+if you want to do it dm me on discord DevEvil#8745
 # [DevEvilBot 🤖](https://dsc.gg/dbbot)
 **DevEvilBot is a multifunctional bot that simplifies server management, Created by DevEvil#8745, Also features Games , Fun , NSFW, Music, Anti Raid, Leveling System and much more with over 225 commands** 
 ### Links 🌐
