@@ -10,7 +10,7 @@
 - **[Invite](https://dsc.gg/dbbot)** ❤
 - **[Support Server](https://dsc.gg/devevil)** 🛰
 - **[Discussions](https://github.com/DevEvil99/DevEvilBot-Discord-Bot/discussions)** 💬
-- **[Docs](https://docs.devevilbot.xyz)** ❓
+- **[Docs](https://docs.bot.devevil.com)** ❓
 
 **Be sure to give this repo a star ⭐**
 
