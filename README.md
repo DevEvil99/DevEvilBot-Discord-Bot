@@ -14,7 +14,7 @@
 
 **Be sure to give this repo a star ⭐**
 
-## **If you want to help me update the bot to discord.js v13, [contact me via email](mailto:devevilcontact@gmail.com) or [Discord](https://dsc.gg/devevil)**
+## **If you want to help me update the bot to discord.js v14, [contact me via email](mailto:devevilcontact@gmail.com) or [Discord](https://dsc.gg/devevil)**
 
 # **NOTE :** 
 **To everyone who plan to sell our project by stating that they coded it or that they sell edited version.
@@ -30,9 +30,8 @@ We cant prohibit reselling of our project but if you do please follow the licens
 
 -----
 
-### **This bot cant be verified becuase my country is under sanction if you want help me with that [contact me via email](mailto:devevilcontact@gmail.com) or [Discord](https://dsc.gg/devevil)**
 - **These are not all commands and features of the bot** 
-- **Discord.js v13 will break this bot so do not use this with it.** 
+- **Discord.js v13/14 will break this bot so do not use this with it.** 
 ### These features are not available in this repository ❗
 - **Anti Raid**
 - **Anti Swear**
