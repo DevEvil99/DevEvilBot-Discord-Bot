@@ -58,7 +58,7 @@ We cant prohibit reselling of our project but if you do please follow the licens
 # Support and credit ✒
 **Developer : [DevEvil](https://devevil.com)** 💻
 
-**Donate (Iranian Users Only) : [IDPay](https://idpay.ir/devevilbot)** ❤
+**Donate (Iranian Users Only) : [IDPay](https://idpay.ir/devevil)** ❤
 
 **Patreon Soon**
 # Invite My Bots 🤖
