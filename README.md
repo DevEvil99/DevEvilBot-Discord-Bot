@@ -13,8 +13,6 @@
 
 **Be sure to give this repo a star ⭐**
 
-## **If you want to help me update the bot to discord.js v14, [contact me via email](mailto:devevilcontact@gmail.com) or [Discord](https://dsc.gg/devevil)**
-
 # **NOTE :** 
 **To everyone who plan to sell our project by stating that they coded it or that they sell edited version.
 Project is licensed under the MIT license**
