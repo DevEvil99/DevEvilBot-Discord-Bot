@@ -6,7 +6,7 @@
 **DevEvilBot is a multifunctional bot that simplifies server management, Created by DevEvil#8745, Also features Games , Fun , NSFW, Music, Anti Raid, Leveling System and much more with over 225 commands** 
 ### Links 🌐
 - **[Installation](#installation)** ⚙
-- **[Invite](https://dsc.gg/dbbot)** ❤
+- **[Donate Me](#donate)** 🙏
 - **[Support Server](https://dsc.gg/devevil)** 🛰
 - **[Discussions](https://github.com/DevEvil99/DevEvilBot-Discord-Bot/discussions)** 💬
 - **[Docs](https://docs.bot.devevil.com)** ❓
@@ -35,37 +35,30 @@ We cant prohibit reselling of our project but if you do please follow the licens
 - **Invite Manager**
 - **Premium**
 
-# Plans 🦦
-- **Nothing for now**
 
 <section id="installation">
 
 # Installation ⚙
-- [Click Here](https://blog.devevil.com/index.php?page=preview_post&id=7)
+- [Click Here](https://blog.devevil.com/index.php?page=preview_post&id=2)
 <br>
 <p dir="auto"><a href="https://heroku.com/deploy?template=https://github.com/DevEvil99/DevEvilBot-Discord-Bot/" rel="nofollow"><img src="https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" alt="Deploy on Heroku" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" style="max-width: 100%;"></a></p> 
 <p dir="auto"><a href="https://repl.it/github/DevEvil99/DevEvilBot-Discord-Bot/" rel="nofollow"><img src="https://camo.githubusercontent.com/f3fcb178b542a1f615d457c4a3bf032f9aeb7923690e9af98e93d92d90b531f6/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f536f6268616e2d53525a412f4d6f6465726174696f6e2d426f742f" alt="Use on Replit" data-canonical-src="https://repl.it/badge/github/DevEvil99/DevEvilBot-Discord-Bot/" style="max-width: 100%;"></a></p>
 
 </section>
 
+<section id="donate">
+
+# Donate 🙏
+
+- **[Donate - Plisio](https://plisio.net/donate/7kPmtgsO)**
+- **[Donate - OxaPay](https://oxapay.com/donate/76037572)**
+- **[Donate - NOWPayment](https://nowpayments.io/donation/devevil)**
+
+</section>
+
 # Support and credit ✒
 **Developer : [DevEvil](https://devevil.com)** 💻
 
-**Donate (Iranian Users Only) : [IDPay](https://idpay.ir/devevil)** ❤
-
-**Patreon Soon**
-# Invite My Bots 🤖
-- [**DevEvilBot - Discord Multipurpose Bot**](https://dsc.gg/dbbot)
-- [**DevEvilBot Music - Discord Music Bot**](https://dsc.gg/dbmusic)
-- [**DevEvilBot Music 2 - Discord Music Bot**](https://dsc.gg/dbmusic2)
-- [**DevEvilBot Anti Raid - Discord Security Bot**](https://dsc.gg/dbar)
-- [**iCord - Discord Multipurpose and Music Bot**](https://dsc.gg/iicord)
-
-# Donators ❤
-- [shadoow87de](https://github.com/shadow87de)
-- [GwParSa](https://github.com/GwParSa)
-
-<img src="https://cdn.discordapp.com/attachments/468141324906921984/912741889403392070/github-donators.png" style="max-width: 100%;">
 
 # LISENCE 📄
 ```
