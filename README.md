@@ -39,7 +39,7 @@ We cant prohibit reselling of our project but if you do please follow the licens
 <section id="installation">
 
 # Installation ⚙
-- [Click Here](https://blog.devevil.com/index.php?page=preview_post&id=2)
+- [Click Here](https://blog.devevil.com/how-to-install-devevilbot)
 <br>
 <p dir="auto"><a href="https://heroku.com/deploy?template=https://github.com/DevEvil99/DevEvilBot-Discord-Bot/" rel="nofollow"><img src="https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" alt="Deploy on Heroku" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" style="max-width: 100%;"></a></p> 
 <p dir="auto"><a href="https://repl.it/github/DevEvil99/DevEvilBot-Discord-Bot/" rel="nofollow"><img src="https://camo.githubusercontent.com/f3fcb178b542a1f615d457c4a3bf032f9aeb7923690e9af98e93d92d90b531f6/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f536f6268616e2d53525a412f4d6f6465726174696f6e2d426f742f" alt="Use on Replit" data-canonical-src="https://repl.it/badge/github/DevEvil99/DevEvilBot-Discord-Bot/" style="max-width: 100%;"></a></p>
