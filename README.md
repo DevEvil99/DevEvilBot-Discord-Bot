@@ -1,6 +1,6 @@
-## ❗❗❗❗ **End of a era** ❗❗❗❗
+## ❗❗❗❗ **Development Stopped** ❗❗❗❗
 
-**After almost 2 years of development and SWEAT, I decided to stop the development of the DevEvilBots, I don't have any interests anymore, i spend $100/month on hosting and all I get is a 'Fuck you' from Discord's staff, I like to thank everyone for supporting me in these 2 years, love y'all** <br>
+**After almost 2+ years of development and SWEAT, I decided to stop the development of the DevEvilBots, I don't have any interests anymore, i spend $100/month on hosting and all I get is a 'Fuck you' from Discord's staff, I like to thank everyone for supporting me in these 2 years, love y'all** <br>
 **More info: [https://blog.devevil.com/db-development](https://blog.devevil.com/db-development)** 
 # [DevEvilBot 🤖](https://dsc.gg/dbbot)
 **DevEvilBot is a multifunctional bot that simplifies server management, Created by DevEvil#8745, Also features Games , Fun , NSFW, Music, Anti Raid, Leveling System and much more with over 225 commands** 
